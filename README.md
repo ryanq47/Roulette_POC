@@ -1,5 +1,5 @@
 # Roulette_POC
-A POC roulette game, that will start deleting files if you don't answer its questions correctly <br>
+A POC roulette game, that will start deleting files if you don't answer its questions correctly - this was created with CCDC (or similar competitions) in mind, so please don't use this without permission of the system owner<br>
 
 Eventually I would like this to be in Rust so it can be an executable, but that will come later
 
