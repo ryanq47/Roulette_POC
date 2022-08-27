@@ -5,7 +5,7 @@ Eventually I would like this to be in Rust so it can be an executable, but that 
 
 > NOTE: for developing purposes, typing 'specialescape' will exit the program with no damage.
 
-Changing Questions: To change the questions, check out the 'Question Blocks' section of the code, here you can add, remove, or change what <br>
+Changing Questions: To change the questions, check out the 'Question Blocks' section of the code, here you can add, remove, or change what
 questions get asked to the victim. If adding questions, add the function name (ex question_one.q) to 'question_list' under main() <br>
 
 Changing files to delete: To change files/directories to delete, check out the file variable under file_nuke(), here you can put in whatever directories <br>
